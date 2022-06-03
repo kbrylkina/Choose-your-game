@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Choose your game</string>
+    <string name="tvId">"@android:id/empty"</string>
+</resources>
